@@ -1,9 +1,6 @@
 ## Test
 
 
-
-Hello world!
-
 Hey
 
 Yo!
